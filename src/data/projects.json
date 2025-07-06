@@ -1,0 +1,102 @@
+[
+  {
+    "id": "authgen-001",
+    "title": "AuthGen - Authentication Key Generator",
+    "description": "A Python GUI application (using PyQt) for generating, storing (SQLite), and managing time-based authentication keys with customizable durations.",
+    "techStack": ["Python", "PyQt", "SQLite", "secrets module"],
+    "githubUrl": "https://github.com/shaniidev/AuthGen",
+    "liveUrl": null,
+    "imageUrl": "/images/projects/authgen.png",
+    "category": "Finished"
+  },
+  {
+    "id": "geocipher-003",
+    "title": "GeoCipher - IP & Coordinate Geolocation Tool",
+    "description": "A Python GUI application using PyQt6 to retrieve and display geographical information (city, country, etc.) from IP addresses or latitude/longitude coordinates via external APIs.",
+    "techStack": ["Python", "PyQt6", "requests", "API Integration"],
+    "githubUrl": "https://github.com/shaniidev/GeoCipher",
+    "liveUrl": null,
+    "imageUrl": "/images/projects/geocipher.png",
+    "category": "Finished"
+  },
+  {
+    "id": "lockpickpdf-005",
+    "title": "LockPickPDF - PDF Password Cracker",
+    "description": "A Python GUI (PyQt6) tool to brute-force decrypt password-protected PDFs using a provided wordlist and the external qpdf library.",
+    "techStack": ["Python", "PyQt6", "qpdf", "File Handling"],
+    "githubUrl": "https://github.com/shaniidev/LockPickPDF",
+    "liveUrl": null,
+    "imageUrl": "/images/projects/lockpickpdf.png",
+    "category": "Finished"
+  },
+  {
+    "id": "quotegen-006",
+    "title": "QuoteGen - Random Quote Generator",
+    "description": "Python GUI (PyQt6) app generating random quotes from a large SQLite database, with translation (googletrans), text-to-speech (pyttsx3/gTTS), clipboard copy, and display customization.",
+    "techStack": ["Python", "PyQt6", "SQLite", "googletrans", "pyttsx3", "gTTS", "playsound", "pyperclip", "API Integration"],
+    "githubUrl": "https://github.com/shaniidev/QuoteGen",
+    "liveUrl": null,
+    "imageUrl": "/images/projects/quotegen.png",
+    "category": "Finished"
+  },
+  {
+    "id": "passguard-007",
+    "title": "PassGuard - Password Strength Checker & Generator",
+    "description": "Python GUI tool (PyQt6) to assess password strength based on criteria (length, char types) and generate strong, random passwords.",
+    "techStack": ["Python", "PyQt6", "Password Security"],
+    "githubUrl": "https://github.com/shaniidev/PassGuard",
+    "liveUrl": null,
+    "imageUrl": "/images/projects/passguard.png",
+    "category": "Finished"
+  },
+  {
+    "id": "qrmaster-008",
+    "title": "QR Master - Custom QR Code Generator",
+    "description": "A user-friendly Python GUI application (PyQt6) for generating custom QR codes from text or links and exporting them as PNG images.",
+    "techStack": ["Python", "PyQt6", "qrcode"],
+    "githubUrl": "https://github.com/shaniidev/QR-Master",
+    "liveUrl": null,
+    "imageUrl": "/images/projects/qrmaster.png",
+    "category": "Finished"
+  },
+  {
+    "id": "pixleon-009",
+    "title": "Pixleon - Media Manipulation Suite",
+    "description": "Versatile Python desktop GUI (PyQt6) for image/video tasks: background removal (rembg), format conversion, compression (Pillow/FFmpeg), and resizing.",
+    "techStack": ["Python", "PyQt6", "rembg", "Pillow", "FFmpeg"],
+    "githubUrl": "https://github.com/shaniidev/Pixleon",
+    "liveUrl": null,
+    "imageUrl": "/images/projects/pixleon.png",
+    "category": "Finished"
+  },
+  {
+    "id": "mboosters-010",
+    "title": "Marketing Boosters Website",
+    "description": "Built and customized a digital agency website using WordPress and a theme, focusing on branding, content presentation, and user experience.",
+    "techStack": ["WordPress", "Theme Customization", "Elementor", "PHP"],
+    "githubUrl": null,
+    "liveUrl": "https://marketingboosters.net",
+    "imageUrl": "/images/projects/mboosters.png",
+    "category": "Finished"
+  },
+  {
+    "id": "solutiiai-011",
+    "title": "SolutiiAI Website & AI Integration",
+    "description": "Developed an SEO-optimized Next.js website integrating custom AI solutions, including intelligent chatbots and voice agents for enhanced customer interaction.",
+    "techStack": ["Next.js", "React", "TypeScript", "SEO", "AI Chatbot", "AI Voice Agent", "API Integration"],
+    "githubUrl": null,
+    "liveUrl": "https://solutiiai.net",
+    "imageUrl": "/images/projects/solutiiai.png",
+    "category": "Finished"
+  },
+  {
+    "id": "apivulnminer-012",
+    "title": "APIVulnMiner - API Vulnerability Scanner",
+    "description": "An advanced, asynchronous API vulnerability scanner with AI-powered endpoint discovery, comprehensive OWASP Top 10 testing, and detailed reporting.",
+    "techStack": ["Python", "Asyncio", "Docker", "API Security"],
+    "githubUrl": "https://github.com/shaniidev/apivulnminer",
+    "liveUrl": null,
+    "imageUrl": "/images/projects/apivulnminer.png",
+    "category": "Finished"
+  }
+] 
