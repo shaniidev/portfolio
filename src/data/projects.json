@@ -6,7 +6,7 @@
     "techStack": ["Python", "PyQt", "SQLite", "secrets module"],
     "githubUrl": "https://github.com/shaniidev/AuthGen",
     "liveUrl": null,
-    "imageUrl": "/images/projects/authgen.png",
+    "imageUrl": "/images/projects/authgen.PNG",
     "category": "Finished"
   },
   {
@@ -26,7 +26,7 @@
     "techStack": ["Python", "PyQt6", "qpdf", "File Handling"],
     "githubUrl": "https://github.com/shaniidev/LockPickPDF",
     "liveUrl": null,
-    "imageUrl": "/images/projects/lockpickpdf.png",
+    "imageUrl": "/images/projects/lockpickpdf.PNG",
     "category": "Finished"
   },
   {
@@ -36,7 +36,7 @@
     "techStack": ["Python", "PyQt6", "SQLite", "googletrans", "pyttsx3", "gTTS", "playsound", "pyperclip", "API Integration"],
     "githubUrl": "https://github.com/shaniidev/QuoteGen",
     "liveUrl": null,
-    "imageUrl": "/images/projects/quotegen.png",
+    "imageUrl": "/images/projects/quotegen.PNG",
     "category": "Finished"
   },
   {
@@ -76,7 +76,7 @@
     "techStack": ["WordPress", "Theme Customization", "Elementor", "PHP"],
     "githubUrl": null,
     "liveUrl": "https://marketingboosters.net",
-    "imageUrl": "/images/projects/mboosters.png",
+    "imageUrl": "/images/projects/mboosters.PNG",
     "category": "Finished"
   },
   {
@@ -86,7 +86,7 @@
     "techStack": ["Next.js", "React", "TypeScript", "SEO", "AI Chatbot", "AI Voice Agent", "API Integration"],
     "githubUrl": null,
     "liveUrl": "https://solutiiai.net",
-    "imageUrl": "/images/projects/solutiiai.png",
+    "imageUrl": "/images/projects/solutiiai.PNG",
     "category": "Finished"
   },
   {
