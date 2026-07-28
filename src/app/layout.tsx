@@ -18,7 +18,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 // The site is served from its Vercel subdomain; no custom domain is planned.
-const siteUrl = "https://shaniidev.vercel.app";
+const siteUrl = "https://shanii.vercel.app";
 
 const siteDescription =
   "Penetration tester and bug bounty hunter. ISO/IEC 27001 Lead Auditor. Reported RCE, SSRF, privilege escalation, IDOR and GraphQL data exposure across vendor and private programs, and author of the open-source bug-reaper and Keyana security tooling.";
